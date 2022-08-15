@@ -6,16 +6,17 @@ require (
 	github.com/cloudevents/sdk-go v1.2.0
 	github.com/confluentinc/confluent-kafka-go v1.4.2
 	github.com/ghodss/yaml v1.0.0
+	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-logr/logr v0.1.0
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.1
 	github.com/onsi/gomega v1.10.4
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.7.1
-	github.com/prometheus/common v0.14.0
+	github.com/prometheus/client_golang v1.12.1
+	github.com/prometheus/common v0.37.0
 	github.com/seldonio/seldon-core/operator v0.0.0-00010101000000-000000000000
 	github.com/tensorflow/tensorflow/tensorflow/go/core v0.0.0-00010101000000-000000000000
 	github.com/uber/jaeger-client-go v2.25.0+incompatible
